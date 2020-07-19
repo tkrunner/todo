@@ -26,13 +26,13 @@ class HomeController extends Controller
         return view('home');
     }
 
-    public function contact()
+    public function create()
     {
-        return view('contact');
+        return view('create');
     }
-    public function about()
+    public function login()
     {
-        return view('about');
+        return view('login');
     }
 
 }
