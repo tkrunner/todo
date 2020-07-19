@@ -10,7 +10,12 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">
     <title>@yield('title')</title>
 </head>
+<body>
+    <div class="container">
+    <h1><i class="fa fa-list"></i> Todo List ::</h1>
 @yield("content")
+
+
 
         <hr>
         <p>&copy; 2020 Saharat Wongyai</p>

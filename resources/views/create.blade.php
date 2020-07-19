@@ -5,8 +5,7 @@ Create
 @section('content')
 
 <body>
-    <div class="container">
-    <h1><i class="fa fa-list"></i> Todo List ::</h1>
+
         <hr>
         <div class="panel panel-default">
             <div class="panel-heading">

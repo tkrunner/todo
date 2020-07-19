@@ -5,8 +5,7 @@ Login
 @section('content')
 
 <body>
-    <div class="container">
-        <h1><i class="fa fa-list"></i> Todo List ::</h1>
+
         <div class="row" style="margin-top:50px;">
             <div class="col-md-8 col-md-offset-2">
                 <div class="panel panel-default">
