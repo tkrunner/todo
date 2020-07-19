@@ -19,3 +19,6 @@
 Route::get('/', 'HomeController@index');
 Route::get('/create', 'HomeController@create');
 Route::get('/login', 'HomeController@login');
+
+Route::post('/store', 'HomeController@store');
+Route::get('/delete/{id}', 'HomeController@delete');
